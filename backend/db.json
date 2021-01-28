@@ -12,18 +12,6 @@
       "id": 2
     }
   ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "Pavel",
-    "password": "2222222",
-    "telephone": "89531759812"
-  },
   "users": [
     {
       "name": "Pavel"
