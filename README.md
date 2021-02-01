@@ -3,9 +3,9 @@
 ## 1. Зайдите в папку backend и запустите сервер: 
 ```javascript
 json-server --watch db.json
-(Он будет доступен по адресу: http://localhost:3000/)
+(Он будет доступен по адресу: _http://localhost:3000/_)
 ```
-## 2.Зайдите в папку frontend и введите:
+## 2. Зайдите в папку frontend и введите:
 ```javascript
 1. npm install 
 2. npm start
