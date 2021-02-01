@@ -10,4 +10,7 @@ json-server --watch db.json
 1. npm install 
 2. npm start
 ```
+
+## Использовал React. Реализован весь функционал из ТЗ: _https://docs.google.com/document/d/1PFafdSZ2PcQLRtAyotvIupDmpGZ_6DnN9Q1kk0ogJm4/edit_
+
 # Автор: Павел Панков
