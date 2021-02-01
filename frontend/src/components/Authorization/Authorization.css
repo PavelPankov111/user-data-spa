@@ -1,11 +1,13 @@
-.authorization{
+.authorization {
     width: 700px;
     height: 700px;
-    background-color: azure;
+    background-color: darkgoldenrod;
     margin-top: 100px;
+    position: relative;
+    border-radius: 10%;
 }
 
-.authorization__content{
+.authorization__content {
     margin: auto;
     width: 500px;
     height: 500px;
@@ -14,11 +16,11 @@
     justify-content: space-evenly;
 }
 
-.authorization__content_disable{
+.authorization__content_disable {
     display: none;
 }
 
-.authorization__title{
+.authorization__title {
     font-style: normal;
     font-weight: normal;
     font-size: 60px;
@@ -27,7 +29,7 @@
     margin-bottom: 0;
 }
 
-.input{
+.input {
     outline: none;
     border: none;
     height: 50px;
@@ -37,16 +39,16 @@
     color: white;
 }
 
-.authorization__name{
+.authorization__name {
     margin-bottom: -25px;
 }
 
-.authorization__submit{
+.authorization__submit {
     border-radius: 100px;
-    background-color: brown;
+    background-color: tomato;
     color: white;
     font-style: normal;
-    font-weight:300;
+    font-weight: 300;
     font-size: 20px;
     line-height: 17px;
     height: 50px;
@@ -55,34 +57,62 @@
     border: none;
 }
 
-.authorization__submit:hover{
+.authorization__submit:hover {
     opacity: .7;
     transition: .2s;
 }
 
-.authorization__submit_disable{
+.authorization__submit_disable {
     pointer-events: none;
     background-color: gray;
 }
 
-.authorization__password{
+.authorization__password {
     margin-bottom: 0
 }
 
-.input__error{
+.input__error {
     color: red;
     width: 266px;
     margin: 0 auto;
     display: none;
 }
 
-.input__error_visible{
+.input__error_visible {
     display: block;
 }
 
-.contact{
-    width: 100px;
-    height: 60px;
+.authorization__link {
+    width: 70%;
+    height: 12%;
     text-decoration: none;
-    color: black;
+    color: white;
+    position: absolute;
+    bottom: 80%;
+    text-align: center;
+    background-color: black;
+    border-radius: 100px;
+    left: 15%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.authorization__link:hover{
+    opacity: .6;
+    transition: .2s;
+}
+
+.authorization__link:active {
+    background-color: tomato;
+}
+
+.authorization__out {
+    bottom: 60%;
+    outline: none;
+    border: none;
 }

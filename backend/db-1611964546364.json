@@ -1,0 +1,69 @@
+{
+  "posts": [
+    {
+      "name": "rrrrr",
+      "password": "2222222",
+      "telephone": "89531759812",
+      "id": 0
+    },
+    {
+      "name": "rrrrr",
+      "password": "2222222",
+      "telephone": "89531759812",
+      "id": 1
+    },
+    {
+      "name": "fff",
+      "telephone": "ffff",
+      "id": 2
+    },
+    {
+      "name": "fff",
+      "telephone": "ffff",
+      "id": 3
+    },
+    {
+      "name": "gfdgfd",
+      "telephone": "ffffd",
+      "id": 4
+    },
+    {
+      "name": "gfdgfd",
+      "telephone": "89541740752",
+      "id": 5
+    },
+    {
+      "name": "gfdgfd",
+      "telephone": "89541740752",
+      "id": 6
+    },
+    {
+      "name": "gfdgfd",
+      "telephone": "89541740752",
+      "id": 7
+    }
+  ],
+  "users": [
+    {
+      "name": "Pavel"
+    },
+    {
+      "name": "3333",
+      "id": "0",
+      "password": "2222222",
+      "telephone": "89531759812"
+    },
+    {
+      "name": "2222",
+      "id": "1",
+      "password": "2222222",
+      "telephone": "89531759812"
+    },
+    {
+      "name": "rrrrr",
+      "id": "2",
+      "password": "2222222",
+      "telephone": "89531759812"
+    }
+  ]
+}
